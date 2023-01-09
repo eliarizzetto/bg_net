@@ -1,5 +1,6 @@
 import conllu
 from pprint import pprint
+import networkx as nx
 
 raw_data_cicero = 'cic_att.conllu'
 raw_data_caesar = 'caes_gal.conllu'
@@ -41,13 +42,17 @@ with open(file, mode="r", encoding="utf-8") as data:
 
     chars = []
     for l in ne_instances:
-        name = [x['form'] for x in l]
+        name = [x['lemma'] for x in l]
         chars.append(name)
-        print(name)
 
-    # print((chars))
+
+    first_names = {l[0] for l in chars}
+
+    #print(first_names)
+
+
 
 # TODO: capire come processare le relazioni interne all'albero per estrarre collegamenti della forma "N.E.-verbo-N.E.".
-#   l'idea è quella di trovare un modo per risalire da, un token all'interno di una frase, ai suoi genitori e nonni.
+#   l'idea è quella di trovare un modo per risalire, da un token all'interno di una frase, ai suoi genitori e nonni.
 #       sostanzialmente questa risorsa riassume quello che bisogna fare, che è di base quello che ho già fatto:
 #           https://stackoverflow.com/questions/49764862/parsing-conll-u-for-parents-and-grandparents.
