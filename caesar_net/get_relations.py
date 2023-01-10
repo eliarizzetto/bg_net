@@ -98,7 +98,7 @@ for t in relations_instances:
 final_relations = [(k[0], k[1], v) for k, v in sums.items()]
 
 # print the result
-pprint(final_relations)
+# pprint(final_relations)
 
 
-print(len(final_relations))
+# print(len(final_relations))
