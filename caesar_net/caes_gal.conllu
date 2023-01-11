@@ -7306,8 +7306,8 @@
 6	Rutenos	Ruteni	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	Ref=1.45.2
 7	a	ab	ADP	R-	_	10	case	_	Ref=1.45.2
 8	Quinto	Quintus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	2	dislocated	_	Ref=1.45.2
-9	Fabio	Fabius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	2	dislocated	_	Ref=1.45.2
-10	Maximo	Maximus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	2	obl:agent	_	Ref=1.45.2
+9	Fabio	Fabius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	8	flat:name	_	Ref=1.45.2
+10	Maximo	Maximus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	8	flat:name	_	Ref=1.45.2
 11	quibus	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Plur|PronType=Rel	14	iobj	_	Ref=1.45.2
 12	populus	populus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Ref=1.45.2
 13	Romanus	Romanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	Ref=1.45.2
