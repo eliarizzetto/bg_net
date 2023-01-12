@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9e7c36-1f77-4d83-b7e5-5ae1e9884941" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/build_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/build_graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/caes_gal.conllu" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/caes_gal.conllu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/bellum_gallicum_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/bellum_gallicum_net.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/places.json" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/places.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +41,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/media/Desktop/WS/ws_final_project",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.json.schema"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/media/Desktop/WS/ws_final_project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.json.schema&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\media\Desktop\WS\ws_final_project\caesar_net" />
@@ -191,6 +191,7 @@
       <workItem from="1673201713566" duration="12646000" />
       <workItem from="1673275168048" duration="22923000" />
       <workItem from="1673359049590" duration="27351000" />
+      <workItem from="1673447120874" duration="21667000" />
     </task>
     <servers />
   </component>
