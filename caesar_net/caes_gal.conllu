@@ -3208,7 +3208,7 @@
 15	per	per	ADP	R-	_	16	case	_	Ref=1.19.3
 16	Gaium	Gaius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	Ref=1.19.3
 17	Valerium	Valerius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	flat:name	_	Ref=1.19.3
-18	Troucillum	Troucillus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	flat:name	_	Ref=1.19.3
+18	Troucillum	Procillus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	flat:name	_	Ref=1.19.3
 19	principem	princeps	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	appos	_	Ref=1.19.3
 20	Galliae	Gallia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	Ref=1.19.3
 21	provinciae	provincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	appos	_	Ref=1.19.3
