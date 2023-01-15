@@ -2,17 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9e7c36-1f77-4d83-b7e5-5ae1e9884941" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/gephi_net.gexf" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/gephi_net.gexf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/06_text_linguistics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/BG_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/BG_net.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/bellum_gallicum_net.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/build_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/cic-att.conll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/cic-att.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/cic_att.conllu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/cognomina.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/extract_ne.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/get_relations.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/caesar_net/graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.png" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.svg" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.png" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.svg" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/degree_hist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/degree_hist.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/centrality_measures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/centrality_measures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/closeness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/degree_centrality_hist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/eigenvector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/harmonic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/out/network_degree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/process_conll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/process_xml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/process_xml_as_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_net/prova.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +223,8 @@
       <workItem from="1673359049590" duration="27351000" />
       <workItem from="1673447120874" duration="21667000" />
       <workItem from="1673535595929" duration="37176000" />
-      <workItem from="1673613691811" duration="19440000" />
+      <workItem from="1673613691811" duration="20081000" />
+      <workItem from="1673710969972" duration="10973000" />
     </task>
     <servers />
   </component>
@@ -225,17 +244,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/caesar_net/process_conll.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ws_final_project$magic_help__1_.coverage" NAME="magic_help (1) Coverage Results" MODIFIED="1673275747413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/caesar_net" />
