@@ -3,34 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9e7c36-1f77-4d83-b7e5-5ae1e9884941" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/06_text_linguistics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/BG_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/BG_net.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/bellum_gallicum_net.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/build_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/cic-att.conll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/cic-att.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/cic_att.conllu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/cognomina.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/extract_ne.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/file.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/get_relations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_net/graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/betweenness_centrality_hist.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/centrality_measures.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/centrality_measures.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/closeness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/clustering_coefficient.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/degree_centrality_hist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/eigenvector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/harmonic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/out/network_degree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/process_conll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/process_xml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/process_xml_as_dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_net/prova.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/media/Desktop/WS/ws_final_project&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.json.schema&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/media/Desktop/thesis23/thesis_resources",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.json.schema"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\media\Desktop\WS\ws_final_project" />
@@ -224,7 +196,8 @@
       <workItem from="1673447120874" duration="21667000" />
       <workItem from="1673535595929" duration="37176000" />
       <workItem from="1673613691811" duration="20081000" />
-      <workItem from="1673710969972" duration="10973000" />
+      <workItem from="1673710969972" duration="11643000" />
+      <workItem from="1673881345950" duration="37000" />
     </task>
     <servers />
   </component>
