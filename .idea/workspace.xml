@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9e7c36-1f77-4d83-b7e5-5ae1e9884941" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/media/Desktop/thesis23/thesis_resources",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.json.schema"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/media/Documents/Università/WS/ws_final_project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\media\Desktop\WS\ws_final_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\media\Documents\Università\WS\ws_final_project\caesar_net" />
       <recent name="C:\Users\media\Desktop\WS\ws_final_project\caesar_net" />
     </key>
   </component>
@@ -198,6 +200,10 @@
       <workItem from="1673613691811" duration="20081000" />
       <workItem from="1673710969972" duration="11643000" />
       <workItem from="1673881345950" duration="37000" />
+      <workItem from="1681066517253" duration="144000" />
+      <workItem from="1681066681978" duration="194000" />
+      <workItem from="1681066887889" duration="156000" />
+      <workItem from="1681067068196" duration="807000" />
     </task>
     <servers />
   </component>
