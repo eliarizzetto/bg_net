@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/582160316.svg)](https://zenodo.org/badge/latestdoi/582160316)
+
 # The social network in Caesar's *Bellum Gallicum*
  
 Final project for the [Web Science course](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/455039) (A.Y. 2021-22) at the University of Bologna.
